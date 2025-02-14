@@ -31,10 +31,10 @@ body {
 }
 
 .flap {
-    border-top: 98px solid #FF6863;
-    border-left: 140px solid transparent;
-    border-right: 140px solid transparent;
-    border-bottom: 82px solid transparent;
+    border-top: 118px solid #FF6863;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 118px solid transparent;
     transform-origin: top;
 }
 
